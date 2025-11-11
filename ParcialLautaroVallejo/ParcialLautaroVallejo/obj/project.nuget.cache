@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "7R+QjjFBWWUdR3GC5IaHRa8ISodX4ymmAjOIiW1KdBuoyihMHuekThMRlrVT6FjcT5RkyTCbuO1Nfm/f9WcbvQ==",
+  "success": true,
+  "projectFilePath": "E:\\ParcialLautaroVallejo\\ParcialLautaroVallejo\\ParcialLautaroVallejo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\idra23\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\10.0.0\\microsoft.bcl.asyncinterfaces.10.0.0.nupkg.sha512",
+    "C:\\Users\\idra23\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\idra23\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\idra23\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
+    "C:\\Users\\idra23\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\idra23\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "C:\\Users\\idra23\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
+    "C:\\Users\\idra23\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512",
+    "C:\\Users\\idra23\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.3\\system.threading.tasks.extensions.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
